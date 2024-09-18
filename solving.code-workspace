@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../solving"
+		},
+		{
+			"path": "../Javascr_challenge"
+		},
+		{
+			"path": "../Web_Dev"
+		},
+		{
+			"path": "../JavaScript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "solving"
+	}
+}
